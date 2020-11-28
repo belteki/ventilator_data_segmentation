@@ -4,11 +4,11 @@ This repository contains the Jupyter notebooks used for data analysis presented 
 
 David Chong, Colin J Morley & Gusztav Belteki: __Computational analysis of neonatal ventilator waveforms and loop__. _Pediatric Research_, 
 
-The _Ventiliser_ Python package presented in the paper can be downloaded from [here](https://github.com/barrinalo/ Ventiliser)
+The _Ventiliser_ Python package presented in the paper can be downloaded from [here](https://github.com/barrinalo/Ventiliser)
 
-With questions and for more information please contact us: [Gusztav Belteki](gbelteki@aol.com), [David Chong](dtwc3@cam.ac.uk).
+With questions and for more information please contact us: gbelteki@aol.com (Gusztav Belteki, dtwc3@cam.ac.uk (David Chong)
 
-The outputs (numbers, tables, graphs) of the cells of the Jupyter Notebooks (.ipynb files) have been suppressed in order to comply with copyrights. Some of the corresponding data and graphs can be found in the paper and its only supplementary material.
+The outputs (numbers, tables, graphs) of the cells of the Jupyter Notebooks (.ipynb files) have been suppressed in order to comply with copyrights. Some of the data and graphs can be found in the paper and its only supplementary material.
 
 This code can be viewed in any web browser. If the code is displayed (rendered) in Github, copy and paste the URL (web adress) of the Notebook into nbviewer (https://nbviewer.jupyter.org) for a read-only display.
 
