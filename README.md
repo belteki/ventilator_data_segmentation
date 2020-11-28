@@ -1,4 +1,4 @@
-# ventilator_data_segmentation
+# Computational analysis of ventilator waveforms and loops.
 
 This repository contains the Jupyter notebooks used for data analysis presented in this paper (Tables 4 & 5, Figures 3 & 4): 
 
